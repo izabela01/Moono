@@ -1,0 +1,2 @@
+/Users/idk02/Projects/GameDeving/PlanetsGame/obj/Debug/UnityEditor.TestRunner.csproj.AssemblyReference.cache
+/Users/idk02/Projects/GameDeving/PlanetsGame/obj/Debug/UnityEditor.TestRunner.csproj.CoreCompileInputs.cache
